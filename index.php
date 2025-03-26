@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Welcome to My Azure Web App!</h1>";
+echo "<h1>Hola Mundo!</h1>";
 ?>
